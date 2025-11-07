@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "**/.github/workflows/*.{yml, yaml}": "yaml",
+    "**/Taskfile.{yml, yaml}": "yaml",
+    "iostream": "cpp",
+    "ostream": "cpp"
+  }
+}
